@@ -1,0 +1,2 @@
+Prefix plugins/PlotTic/example/
+Plugin PlotTic inputfile lipidclass.rds outputfile Tic.pdf
